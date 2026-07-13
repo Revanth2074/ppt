@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #050708;
+}
+
+body {
+  overflow: hidden;
+}
+
+.slide-container {
+  margin: 0;
+  display: block;
+  background: #050708;
+}
+
+img {
+  max-width: none;
+}
