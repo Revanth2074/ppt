@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: beyond-the-broadcast
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./
+    envVars:
+      - key: NODE_ENV
+        value: production
